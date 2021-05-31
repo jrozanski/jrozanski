@@ -1,4 +1,4 @@
-#👋 Hello there
+# 👋 Hello there
 
 The maker behind 📈 [Wide Angle Analytics](https://wideangle.co?utm_s=github), an Online Analytics platform enabling you and your businesses to unlock insight into your online traffic.
 
