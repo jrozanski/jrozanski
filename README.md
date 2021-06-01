@@ -7,6 +7,6 @@ I enjoy crafting software in:
 2. JavaScript, with special interest in Vue.js
 3. Appreciate the elegance and simplicity of TailwindCSS.
 4. Huge fan of automation 🤖 and power of Kubernetes 🧊
-5. I can do search via Solr and Elastic Search 
+5. I can do search via Solr and Elasticsearch 
 
 More about me at [jarekrozanski.eu](https://jarekrozanski.eu)
