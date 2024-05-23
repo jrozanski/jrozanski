@@ -9,5 +9,11 @@ My techie life in bullet points:
 6. Kafka, RabbitMQ and other messaging platforms you name it
 7. Distributed computing - been there, done that
 
-More about me at [jarekrozanski.eu](https://jarekrozanski.eu)
+# Links
+
+🧑‍🦱 [Personal](https://jarekrozanski.eu?ref=github-profile)
+🏢 [My company](https://inputobjects.eu?ref=github-jrozanski-profile)
+📉 [My product](https://wideangle.co?ref=github-jrozanski-profile)
+
+
 
