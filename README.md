@@ -11,9 +11,9 @@ My techie life in bullet points:
 
 # Links
 
-🧑‍🦱 [Personal](https://jarekrozanski.eu?ref=github-profile)
-🏢 [My company](https://inputobjects.eu?ref=github-jrozanski-profile)
-📉 [My product](https://wideangle.co?ref=github-jrozanski-profile)
+- 🧑‍🦱 [Personal](https://jarekrozanski.eu?ref=github-profile)
+- 🏢 [My company](https://inputobjects.eu?ref=github-jrozanski-profile)
+- 📊 [My product](https://wideangle.co?ref=github-jrozanski-profile)
 
 
 
