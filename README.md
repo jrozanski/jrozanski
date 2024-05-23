@@ -8,6 +8,7 @@ My techie life in bullet points:
 5. I can do search via Solr and Elasticsearch
 6. Kafka, RabbitMQ and other messaging platforms you name it
 7. Distributed computing - been there, done that
+8. Process Orchestration with Camunda, I speak BPMN
 
 # Links
 
