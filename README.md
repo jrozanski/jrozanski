@@ -1,6 +1,6 @@
 # 👋 Hello there
 
-⚠️ This is just software social account. My main personal and business activity is hosted on an instance of [Forgejo](https://forgejo.org/) and so should you.
+⚠️ This is just software social account. My main personal and business activity is hosted on an instance of [Forgejo](https://forgejo.org/). For sake privacy, self determination and preserving your own work product, so should you.
 
 My techie life in bullet points:
 1. Scala, and Java, and C# 
@@ -19,5 +19,6 @@ My techie life in bullet points:
 - 🏢 [My company](https://inputobjects.eu?ref=github-jrozanski-profile)
 - 📊 [My product](https://wideangle.co?ref=github-jrozanski-profile)
 
+# Contact
 
-
+You can reach me on [Mastodon 🐘](https://mastodon.social/@jarekrozanski).
