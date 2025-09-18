@@ -1,5 +1,7 @@
 # 👋 Hello there
 
+⚠️ This is just software social account. My main personal and business activity is hosted on an instance of [Forgejo](https://forgejo.org/) and so should you.
+
 My techie life in bullet points:
 1. Scala, and Java, and C# 
 2. JavaScript, with special interest in Vue.js
@@ -12,7 +14,8 @@ My techie life in bullet points:
 
 # Links
 
-- 🧑‍🦱 [Personal](https://jarekrozanski.eu?ref=github-profile)
+- ✍️ [Blog](https://its23.eu?ref=github-profile)
+- 🧑‍🦱 [Personal VCard](https://jarekrozanski.eu?ref=github-profile)
 - 🏢 [My company](https://inputobjects.eu?ref=github-jrozanski-profile)
 - 📊 [My product](https://wideangle.co?ref=github-jrozanski-profile)
 
