@@ -8,7 +8,6 @@ Here are some bullet points about me.
 - **Student of Applied Business Management**: Running a business as a software engineer means I am learning business management on the fly. Taxes aside, managing a business is a fascinating and very challenging endeavor that keeps me sharp.
 - **Functional Programmer**: I code in Scala daily and have a keen interest in OCaml and F#.
 - **Result-Oriented Generalist**: While I have a preference for functional programming, I frequently work with Java, C#, JavaScript, TypeScript, and Go.
-- **Privacy Aficionado**: I turned my passion for online privacy into a product, [Wide Angle Analytics](https://wideangle.co?ref=github-jrozanski-profile). Check it out; it is a fairly priced, privacy-first, cookieless web analytics tool.
 - **Electronics Geek**: With a formal education in electronics, computer engineering, and FPGA, there isn’t a day that goes by without me reading about interesting electronics, custom keyboards, and projects involving single-board computers like Raspberry Pi.
 
 > [!NOTE]
