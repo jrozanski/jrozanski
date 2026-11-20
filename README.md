@@ -24,7 +24,3 @@ Here are some bullet points about me.
 # Products
 
 - 🦈 [Status Raptor](https://statusraptor.com)
-
-# Contact
-
-You can reach me on [Mastodon 🐘](https://mastodon.social/@jarekrozanski).
